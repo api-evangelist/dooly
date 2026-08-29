@@ -35,6 +35,8 @@ description: >-
   captures the remaining public surface (website, privacy policy, terms) for the
   record.
 url: https://raw.githubusercontent.com/api-evangelist/dooly/refs/heads/main/apis.yml
+x-api-posture: no-product-api
+x-api-posture-basis: observed
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
